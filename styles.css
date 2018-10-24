@@ -20,6 +20,7 @@ NAVBAR
   flex-direction: row;
   justify-content: flex-start;
   align-items: center;
+  font-family: roboto;
 }
 
 .nav-btn {
@@ -43,7 +44,7 @@ NAVBAR
 }
 
 .nav-btn.right {
-  margin-left: 85%;
+  margin-left: 80%;
   transition: all 300ms;
 }
 
