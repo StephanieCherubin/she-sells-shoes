@@ -401,6 +401,7 @@ gallery
 .c {
   background: url('https://images.pexels.com/photos/421160/pexels-photo-421160.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-position: -70px;
+  background-size: cover;
 }
 
 .d {
@@ -440,6 +441,7 @@ gallery
 .j {
   background: url('https://images.pexels.com/photos/116150/pexels-photo-116150.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
   background-position: 0px -60px;
+  background-size: cover;
 }
 
 .panel div {
