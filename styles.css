@@ -101,6 +101,9 @@ Popup
 /***********
 NAVBAR
 ***********/
+ul {
+    list-style: none;
+}
 
 .navbar {
   z-index: 10;
